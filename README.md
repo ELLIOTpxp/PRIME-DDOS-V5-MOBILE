@@ -107,8 +107,8 @@ python3 PRIME.py
 
 # **DEVELOPER:**
 
-## Developed by **ELLIOTPXP**
+**Developed by** **ELLIOTPXP**
 
-## TIKTOK - https://www.tiktok.com/@elliotpxp
-## TELEGRAM - https://www.t.me/TheOneElliot
-## GITHUB - https://www.github.com/elliotpxp
+**TIKTOK** - https://www.tiktok.com/@elliotpxp
+**TELEGRAM** - https://www.t.me/TheOneElliot
+**GITHUB** - https://www.github.com/elliotpxp
