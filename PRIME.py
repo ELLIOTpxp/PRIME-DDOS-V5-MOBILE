@@ -17,7 +17,6 @@ print(Fore.RED + "AVAILABLE ATTACK MODE:\n\n• 1 - STANDARD\n• 2 - ULTRA\n•
 target   = input(Fore.RED+"TARGET URL —> ").strip()
 if not target: sys.exit("Target required!")
 cf       = input(Fore.RED+"Cloudflare protected? (y/N): ").strip().lower()=='y'
-target   = input(Fore.RED+"TARGET URL —> ").strip()
 mode     = input(Fore.RED+"Select mode (1-7, default 3): ").strip() or "3"
 ja3      = input(Fore.RED+"Enable JA3 fingerprint spoofing? (Y/n): ").strip().lower()!='n'
 auto_net = input(Fore.RED+"Auto Network error handling? (Y/n): ").strip().lower()!='n'
