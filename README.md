@@ -70,9 +70,9 @@ npm i hcaptcha-solver
 npm i randomstring
 npm i cluster
 npm i cloudflare-bypasser
-git clone https://github.com/ELLIOTpxp/PRIME-DDOS-V5.git
-cd PRIME-DDOS-V5
-chmod +x PRIME.py quantum_hulk
+git clone https://github.com/ELLIOTpxp/PRIME-DDOS-V5-MOBILE.git
+cd PRIME-DDOS-V5-MOBILE
+chmod +x PRIME.py prime_engine
 python PRIME.py
 ```
 **For Linux Debian**
@@ -99,9 +99,9 @@ sudo npm i hcaptcha-solver -g
 sudo npm i randomstring -g
 sudo npm i cluster -g
 sudo npm i cloudflare-bypasser -g
-git clone https://github.com/ELLIOTpxp/PRIME-DDOS-V5.git
-cd PRIME-DDOS-V5
-chmod +x PRIME.py quantum_hulk
+git clone https://github.com/ELLIOTpxp/PRIME-DDOS-V5-MOBILE.git
+cd PRIME-DDOS-V5-MOBILE
+chmod +x PRIME.py prime_engine
 python3 PRIME.py
 ```
 
